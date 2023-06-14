@@ -20,7 +20,7 @@ Escolho qual pasta eu quero me basear como template, utilizei a pasta cadastro:
 Com o botao direito do mouse em cima da pasta, é possivel visualizar e selecionar a opcao abaixo:
 ![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/895395b6-5a07-4a06-aa63-254bd4cb7aa0)
 
-Por padrão ele vai salvar o templete nesse caminho:
+Por padrão ele vai salvar o templete nesse caminho: (PODE SER ALTERADA DENTRO DA EXTENSAO)
 
 C:\Users\[USUARIO]\AppData\Roaming\Code\User\ProjectTemplates
 
@@ -34,3 +34,23 @@ Utilizei 3 variaveis para esse modelo, lembrando que pode ser quantos quiserem.
 #{nomeDaPasta}  = Nome da pasta
 #{nomeDaClasseMaiusculo} = Classes
 #{nomeDoArquivoMinusculo} = Nome dos arquivos e variaveis
+
+
+UTILIZÇÃO DO TEMPLATE
+
+Dentro do projeto, clique com o botão direito e selecione Create Project from template
+![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/729ebeed-8e75-4bbd-96d2-2f4483ccfcc1)
+
+Selecione qual o template que quer usar
+
+![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/30c414c5-d898-4c77-b8fd-0cbb7ebb42c5)
+
+defina o nome da pasta
+![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/cc29f15f-6107-41fc-bdd9-dc0ed430ef68)
+
+defina o nome da Classe no caso tem que colocar em Maiuscula
+![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/48cdba7b-373b-498e-a73e-1a6ea97b47eb)
+
+![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/960967f6-1e13-4a20-b77c-561b5e660d32)
+
+
