@@ -46,11 +46,23 @@ Selecione qual o template que quer usar
 ![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/30c414c5-d898-4c77-b8fd-0cbb7ebb42c5)
 
 defina o nome da pasta
+
 ![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/cc29f15f-6107-41fc-bdd9-dc0ed430ef68)
 
 defina o nome da Classe no caso tem que colocar em Maiuscula
+
 ![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/48cdba7b-373b-498e-a73e-1a6ea97b47eb)
 
+
+defina o nome dos arquivos
 ![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/960967f6-1e13-4a20-b77c-561b5e660d32)
 
+Pronto, sua pasta template esta criada!
 
+![image](https://github.com/crysleiferreira/nrgx-estrutura/assets/39660331/bdfedf79-7d8f-427e-8800-979d44afca7e)
+
+
+Qual a vantagem de se utilizar os templates? 
+- Quando se tem um certo padrao que se repete no projeto, o uso do template auxilia nessa criação que seria manual, poupando tempo e possiveis erros.
+- Ajuste minimo
+- Pode-se utilizar em diferentes contextos.
